@@ -1,0 +1,26 @@
+#servicios h3, h4 {
+	text-align: center;
+
+}
+
+#servicios h4{
+	padding: 5px;
+
+}
+
+#servicios .contenedor{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#servicios article{
+	margin: 15px;
+}
+#servicios img{
+	width: 200px;
+	max-width: 300px;
+	overflow: hidden;
+	border-radius: 4em;
+	margin-left: 2rem;
+}
